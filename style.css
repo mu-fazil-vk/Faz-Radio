@@ -1,0 +1,44 @@
+#bodybg {
+    background-color: rgb(71, 105, 180);
+    padding: 20px;
+}
+
+#maindiv {
+    background-color: #2f8a64;
+    background-image: linear-gradient(to right, red, orange);
+    height: 500px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+    box-shadow: 10px 10px dimgray;
+}
+#h {
+    text-align: center;
+    padding: 20px;
+    color: rgb(241, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  padding-left: 25px;
+    margin: 0;
+    position: absolute;
+    top: 220px;
+    left: 49%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.scenter {
+  margin: 0;
+  position: absolute;
+  top: 420px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#p {
+  color: rgb(139, 37, 45);
+}
